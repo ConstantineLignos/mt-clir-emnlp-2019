@@ -1,0 +1,6 @@
+[submodule "mosesdecoder"]
+	path = mosesdecoder
+	url = https://github.com/moses-smt/mosesdecoder.git
+[submodule "pyrouge"]
+	path = pyrouge
+	url = https://github.com/pltrdy/pyrouge
